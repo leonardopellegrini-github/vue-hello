@@ -4,6 +4,6 @@ const app = new Vue ({
 
   data:{
     messaggio: "ciao mondo!",
-    immagine: "hd-wallpaper.jpg"
+    immagine: "/imm/hd-wallpaper.jpg"
   }
 })
